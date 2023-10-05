@@ -1,19 +1,29 @@
 body{
-    background-image:url(/img/sand.jpg);
+    background-color:rgba(189, 233, 229, 0.479);
     background-repeat:no-repeat;
     background-size:100%;
+    font-family: 'Nanum Gothic', sans-serif;
 }
 
 .card{
     display:inline-block;
     justify-content:space-around;
-    width:500px;
-    height:350px;
+    width:600px;
     margin-top:0px;
     border-radius:10px;
     border-color:black;
 
 }
 
-.img{
+.navbar{
+    font-size:70px;
+    margin-top:20px;
+    margin-bottom:20px;
+    border-radius:25px;
+}
+
+.carousel{
+    margin:5px;
+    border-radius:10px;
+    width:500px;
 }
