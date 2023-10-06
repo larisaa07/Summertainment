@@ -15,15 +15,22 @@ body{
 
 }
 
-.navbar{
+.navbar {
     font-size:70px;
     margin-top:20px;
     margin-bottom:20px;
     border-radius:25px;
+    text-align: center;
 }
 
 .carousel{
     margin:5px;
     border-radius:10px;
     width:500px;
+}
+
+.footer{
+    background-color:rgb(225, 235, 233);
+    position:fixed;
+    padding:20px
 }
